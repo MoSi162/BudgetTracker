@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "fwYdzrVarPE=",
+  "success": true,
+  "projectFilePath": "/workspaces/BudgetTracker/src/BudgetTracker.Api/BudgetTracker.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/home/codespace/.nuget/packages/swashbuckle.aspnetcore/6.6.1/swashbuckle.aspnetcore.6.6.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.1/swashbuckle.aspnetcore.swagger.6.6.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.1/swashbuckle.aspnetcore.swaggergen.6.6.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.1/swashbuckle.aspnetcore.swaggerui.6.6.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.22/microsoft.netcore.app.host.linux-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "BudgetTracker.Api hängt von Swashbuckle.AspNetCore (>= 6.6.0) ab, aber Swashbuckle.AspNetCore 6.6.0 wurde nicht gefunden. Swashbuckle.AspNetCore 6.6.1 wurde stattdessen aufgelöst.",
+      "projectPath": "/workspaces/BudgetTracker/src/BudgetTracker.Api/BudgetTracker.Api.csproj",
+      "warningLevel": 1,
+      "filePath": "/workspaces/BudgetTracker/src/BudgetTracker.Api/BudgetTracker.Api.csproj",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
